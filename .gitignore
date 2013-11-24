@@ -27,3 +27,7 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+# Basic gradle project files/directories
+.gradle/
+build/
